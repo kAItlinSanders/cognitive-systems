@@ -13,7 +13,7 @@ This collection introduces a larger body of ongoing development through material
 | [Cognitive Design Families: Architecture Field Guide](<Cognitive_Design_Families_Architecture_Field_Guide.pdf>) | An overview of five architectural design families, their relationships, reusable mechanics, and potential applications. |
 | [Cognitive Integrity Evaluation (CIE)](<Cognitive_Integrity_Evaluation_CIE.pdf>) | A methodology for evaluating evidence use, reasoning, state integrity, adaptation, quality, and human and machine effort. |
 | [Evolving Evidence Field: Agent Applications](<Evolving_Evidence_Field_Agent-Applications.pdf>) | Selected observations and reported quality and cost findings from agent applications, alongside questions for continued evaluation. |
-| [From Signals to Meaning: Conversation Intelligence](<From_Signals_to_Meaning_Conversation_Intelligence.pdf>) | An applied guide to enterprise signal interpretation, contextual relationships, evidence boundaries, and semantic handoffs. |
+| [From Signals to Meaning](<From_Signals_to_Meaning_Conversation_Intelligence.pdf>) | An applied guide to enterprise signal interpretation, contextual relationships, evidence boundaries, and semantic handoffs. |
 
 ## How the documents connect
 
