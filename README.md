@@ -1,7 +1,7 @@
 # Cognitive Systems
 Reference materials by Kaitlin Sanders
 
-Selected public-facing documentation from my work in cognitive systems: foundational principles, architectural design families, evaluation methodology, applied evidence, and interpretation.
+Selected public-facing documentation from my work in cognitive systems: foundational principles, architectural design families, evaluation methodologies, applied evidence, and interpretation.
 
 This collection introduces a larger body of ongoing development through materials selected for public sharing.
 
