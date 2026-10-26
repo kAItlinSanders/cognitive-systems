@@ -1,4 +1,3 @@
-# kaitlin-sanders-cognitive-systems
 # Cognitive Systems
 Created by Kaitlin Sanders
 
