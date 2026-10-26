@@ -1,2 +1,7 @@
 # kaitlin-sanders-cognitive-systems
-Selected reference materials introducing Kaitlin Sanders’s work in cognitive systems, including architectural foundations, original designs, evaluation methodologies, application evidence, etc.
+# Cognitive Systems
+Created by Kaitlin Sanders
+
+Selected reference materials introducing my work in cognitive systems, including architectural foundations, design families, evaluation methodologies, application evidence, etc.
+
+Private review copy · Not for distribution.
